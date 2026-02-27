@@ -24,3 +24,5 @@ Data Cleaning: Handled mixed types in the TotalCharges column and managed missin
 Feature Engineering: Applied One-Hot Encoding using pd.get_dummies(drop_first=True) to convert categorical data into numerical format suitable for ML.
 
 Class Imbalance: Discovered that the dataset has significantly more "Stayed" than "Churned" customers, which explains why the model is better at predicting the majority class.
+
+<img width="800" height="435" alt="graph" src="https://github.com/user-attachments/assets/978b96de-298e-4c6d-ac4c-e5743422c150" />
